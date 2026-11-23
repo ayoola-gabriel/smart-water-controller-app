@@ -1,0 +1,6 @@
+{
+  "name": "Smart Water Controller",
+  "description": "Cross-platform local BLE and remote Supabase monitoring and control for ESP32 smart water tank controllers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
